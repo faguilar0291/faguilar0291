@@ -14,7 +14,7 @@
             linkedIn: https://www.linkedin.com/in/faguilardev/ ,
           )
         };
-💚 Other relevant information: 
+- 💚 Other relevant information: 
     🏍 I like to go for a ride on a motorcycle and discover new places. 
     🍕🍔🍟🥐🍜 I like to eat (so much) and cook for myself, my family or my friends. 
     ✈🚆🛳 I like to travel, make new friends, learn about other cultures and visit new places!
