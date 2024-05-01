@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faguilar0291 or Fernando Aguilar as I am formally known.
+<h1>👋 Hi, I’m @faguilar0291 or Fernando Aguilar as I am formally known.</h1>
 - 👀 I have always been interested in technology and how it works.
 - 🌱 I am currently learning by doing with some projects to show 
       how much I have learned about Web Development and show how well 
