@@ -1,9 +1,5 @@
 
-
-
-https://github.com/faguilar0291/faguilar0291/assets/131192351/dd6c11cf-7522-44e2-b9e8-199c7bb8eb40
-
-
+![github_profile](https://github.com/faguilar0291/faguilar0291/assets/131192351/1eabdc19-16a5-468a-95ad-04cb71e244d2)
 
 <h1>👋 Hi, I’m @faguilar0291 or Fernando Aguilar as I am formally known.</h1>
 <ul>
@@ -18,10 +14,12 @@ https://github.com/faguilar0291/faguilar0291/assets/131192351/dd6c11cf-7522-44e2
 			<li>HTML</li>
 			<li>CSS</li>
 		</ul>
+		<h2>STACK</h2>
 		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>M: Mongo DB</li>
+			<li>E: Express</li>
+			<li>R: React</li>
+			<li>N: Node.js</li>
 		</ul>
 	</li>
       <li>💞️ I'm looking to collaborate on a big project like Fullstack, Front End or Back End. 
@@ -46,3 +44,6 @@ https://github.com/faguilar0291/faguilar0291/assets/131192351/dd6c11cf-7522-44e2
 		</ul>
       </li>
 </ul>
+<h2> My certifications:</h2>
+<h3>Certificado-Bootcamp-Full-Stack-Engineer-2023-EducaciónIT</h3>
+!(https://github.com/faguilar0291/faguilar0291/assets/131192351/8bff9f5b-fb15-48b1-8e9b-bf74492bb210)
