@@ -45,5 +45,6 @@
       </li>
 </ul>
 <h2> My certifications:</h2>
-<h3>Certificado-Bootcamp-Full-Stack-Engineer-2023-EducaciónIT</h3>
-!(https://github.com/faguilar0291/faguilar0291/assets/131192351/8bff9f5b-fb15-48b1-8e9b-bf74492bb210)
+<h3>Certificado-Bootcamp-Full-Stack-Engineer-2023/4-EducaciónIT</h3>
+!(https://github.com/faguilar0291/faguilar0291/assets/131192351/972c585d-a7c0-488d-8bcc-7831d28d7ba6)
+
