@@ -27,9 +27,9 @@
       or website can work for clients, in a way that is easy to use and intuitive.</li>
       <li>📫 How to contact me ?
             <ul start="1">
-                  <li>📧email: faguilar0291@gmail.com</li>
+                  <li>📧email: altekfer@gmail.com</li>
                   <li>📲 cel: +5491122513924</li>
-                  <li>👔 linkedIn: https://www.linkedin.com/in/faguilardev/</li>
+                  <li>👔 linkedIn: https://www.linkedin.com/in/faguilar91dev/</li>
             </ul>
       </li>
       <li>💚 Other information about me: 
