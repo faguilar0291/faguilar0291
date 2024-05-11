@@ -47,4 +47,7 @@
 <h2> My certifications:</h2>
 <h3>Certificado-Bootcamp-Full-Stack-Engineer-2023/4-EducaciónIT</h3>
 !(https://github.com/faguilar0291/faguilar0291/assets/131192351/972c585d-a7c0-488d-8bcc-7831d28d7ba6)
+<hr>
+<h3>Introduccion-Desarrollo-Web-Desafio_Latam</h3>
+!(https://github.com/faguilar0291/faguilar0291/files/15281049/diploma-introweb.pdf)
 
