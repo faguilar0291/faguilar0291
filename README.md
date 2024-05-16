@@ -22,6 +22,7 @@
 			<li>N: Node.js</li>
 		</ul>
 	</li>
+	</br>
       <li>💞️ I'm looking to collaborate on a big project like Fullstack, Front End or Back End. 
       I like design, so maybe I lean more towards the Front and think about how a web application 
       or website can work for clients, in a way that is easy to use and intuitive.</li>
@@ -50,4 +51,7 @@
 <hr>
 <h3>Introduccion-Desarrollo-Web-Desafio_Latam</h3>
 !(https://github.com/faguilar0291/faguilar0291/files/15281049/diploma-introweb.pdf)
+<hr>
+<h3>POO - Udemy</h3>
+!(https://github.com/faguilar0291/faguilar0291/assets/131192351/7cb1d89a-c568-4a5e-9d8e-5abe63e10d8e)
 
