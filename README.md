@@ -1,18 +1,17 @@
 
-![github_profile](https://github.com/faguilar0291/faguilar0291/assets/131192351/1eabdc19-16a5-468a-95ad-04cb71e244d2)
 
 <h1>👋 Hi, I’m @faguilar0291 or Fernando Aguilar as I am formally known.</h1>
 <ul>
       <li>👀 I have always been interested in technology and how it works.</li>
       <li>🌱 I am currently learning by doing with some projects to show 
-      how much I have learned about Web Development and show how well 
-      I do things when I set my mind to it.</li>
+      how much I have learned about Web Development and Data Analisys</li>
 	<li>
 		<h2>Development languages I know:</h2>
 		<ul>
 			<li>C</li>
 			<li>HTML</li>
 			<li>CSS</li>
+			<li>Javascript</li>
 		</ul>
 		<h2>STACK</h2>
 		<ul>
@@ -21,11 +20,17 @@
 			<li>R: React</li>
 			<li>N: Node.js</li>
 		</ul>
+		<h2>Data Analisys</h2>
+		<ul>
+			<li>MySQL</li>
+			<li>SSMS</li>
+			<li>Google Collab</li>
+			<li>Python</li>
+			<li>Power Bi</li>
+		</ul>
 	</li>
 	</br>
-      <li>💞️ I'm looking to collaborate on a big project like Fullstack, Front End or Back End. 
-      I like design, so maybe I lean more towards the Front and think about how a web application 
-      or website can work for clients, in a way that is easy to use and intuitive.</li>
+      <li>💞️ I'm looking to collaborate on a big project like Data Analyst.</li>
       <li>📫 How to contact me ?
             <ul start="1">
                   <li>📧email: altekfer@gmail.com</li>
@@ -54,4 +59,12 @@
 <hr>
 <h3>POO - Udemy</h3>
 !(https://github.com/faguilar0291/faguilar0291/assets/131192351/7cb1d89a-c568-4a5e-9d8e-5abe63e10d8e)
-
+<hr>
+<h3>Project Management with Trello - Udemy</h3>
+!(https://github.com/user-attachments/assets/35da5258-87e0-4da6-b61a-0e3ef5de7f3d)
+<hr>
+<h3>Leadership and Team Management - Udemy</h3>
+!(https://github.com/user-attachments/assets/90ac91fd-0887-4f0b-80cf-568060a7ec37)
+<hr>
+<h3>Total SQL - Udemy</h3>
+!(https://github.com/user-attachments/assets/4300464d-e6b0-4905-9e4f-a51d2311a529)
