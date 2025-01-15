@@ -4,7 +4,7 @@
 <ul>
       <li>👀 I have always been interested in technology and how it works.</li>
       <li>🌱 I am currently learning by doing with some projects to show 
-      how much I have learned about Web Development and Data Analisys</li>
+      how much I have learned about Web Development and Data Analysis</li>
 	<li>
 		<h2>Development languages I know:</h2>
 		<ul>
